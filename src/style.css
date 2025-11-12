@@ -10,6 +10,12 @@ body{
   height: 300px;
 }
 
+h1 {
+  font-family: "Domine", serif;
+  font-size: 100px;
+  color:black
+}
+
 .spade {
   color: black;
 }
